@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-0!nd+9q7%81p^7o_u1-9^o1d$%=mx7*m6l5_*o!12(n=-c6h!3
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://apiper.herokuapp.com/']
+ALLOWED_HOSTS = ['*','https://apiper.herokuapp.com/','apiper.herokuapp.com/',
+]
 
 
 # Application definition
