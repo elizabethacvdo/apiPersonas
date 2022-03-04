@@ -1,4 +1,4 @@
-from tkinter import N
+
 from django.shortcuts import render
 
 
